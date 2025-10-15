@@ -1,0 +1,18 @@
+{
+  "Gestor.Departamento": "Área responsable de la gestión del indicador.",
+  "Gestor.División": "Subunidad o sección dentro del departamento a cargo.",
+  "Gestor.Persona_encargada": "Responsable directo de mantener, calcular o actualizar el indicador.",
+  "Indicador.Nombre_del_indicador": "Nombre oficial o utilizado en reportes.",
+  "Indicador.Tipo_de_indicador": "Clasificación: Serie, Indicador, simple, compuesto o modelado.",
+  "Indicador.Categoría": "Grupo temático (capital, liquidez, riesgo, rentabilidad, etc.).",
+  "Indicador.Definición": "Explicación de qué mide y su propósito.",
+  "Indicador.Periodicidad": "Frecuencia de cálculo y actualización (mensual, trimestral, anual).",
+  "Indicador.Unidad_de_medida": "Forma de expresión (%, monto en DOP, índice, etc.).",
+  "Indicador.Fórmula": "Expresión matemática o lógica de cálculo.",
+  "Indicador.Fecha_Inicio_Disponibilidad": "Desde qué fecha se cuenta con datos históricos consistentes.",
+  "Indicador.Código_fuente": "Proceso que calcula el indicador (ETL, script, notebook, job, etc.).",
+  "Indicador.Query_SQL": "Consulta SQL o ruta al archivo .sql",
+  "Indicador.Fuente_Oracle": "Tabla o vista en Oracle donde consultar.",
+  "Indicador.Visualización": "Plataforma/medio donde se presenta (SIMBAD, Dash, Power BI...).",
+  "Indicador.Niveles_de_desagregación": "Granularidad disponible (entidad, cartera, sector, moneda...)."
+}
